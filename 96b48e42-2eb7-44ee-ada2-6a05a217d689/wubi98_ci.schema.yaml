@@ -11,7 +11,7 @@ schema:
   dependencies:
 switches:
   - name: ascii_mode
-    reset: 0
+    reset: 1
   - name: zh_trad
     reset: 0
     states: [ 简,繁 ]

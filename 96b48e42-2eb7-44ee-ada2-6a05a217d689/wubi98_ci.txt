@@ -2,7 +2,7 @@
 #@/db_name	wubi98_ci
 #@/db_type	tabledb
 #@/rime_version	1.8.5
-#@/tick	160
+#@/tick	162
 了	b	2
 在	d	19
 破	db	2
@@ -15,6 +15,7 @@
 直	fh	1
 一	g	8
 五笔	ggte	2
+副省长	gita	1
 睛	hg	1
 点	hko	1
 此	hx	1
@@ -33,7 +34,7 @@
 性	ntg	1
 这	p	6
 写	pgn	15
-我	q	27
+我	q	28
 金	q	1
 锭	qp	1
 勿	qr	1
