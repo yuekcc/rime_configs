@@ -1,0 +1,53 @@
+# Rime table
+#@/db_name	wubi98_ci
+#@/db_type	tabledb
+#@/rime_version	1.8.5
+#@/tick	160
+了	b	2
+在	d	19
+破	db	2
+历	de	1
+还	dh	1
+还是	dhjg	1
+太	dy	1
+用	et	5
+办	ew	2
+直	fh	1
+一	g	8
+五笔	ggte	2
+睛	hg	1
+点	hko	1
+此	hx	1
+些	hxf	4
+法	ifc	2
+觉得	iptj	1
+没有	iwde	1
+是	j	7
+里	jfd	6
+量	jg	1
+吧	kc	1
+中文	khyy	1
+蹴	khyy	2
+输入	lwty	1
+慢	njlc	1
+性	ntg	1
+这	p	6
+写	pgn	15
+我	q	27
+金	q	1
+锭	qp	1
+勿	qr	1
+的	r	16
+提示	rjfi	1
+拼音	ruuj	1
+横	sa	1
+模式	saaa	1
+可能	skce	1
+关闭	uduf	1
+普通	uoce	4
+兼容	uvpw	1
+好	vb	1
+如何	vkws	1
+什么	wftc	1
+你	wq	1
+试	ya	1
