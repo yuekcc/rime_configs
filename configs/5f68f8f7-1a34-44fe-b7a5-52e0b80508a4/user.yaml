@@ -1,2 +1,6 @@
 var:
-  last_build_time: 1730618600
+  last_build_time: 1738648581
+  previously_selected_schema: wubi
+  schema_access_time:
+    pinyin: 1738647232
+    wubi: 1738647367

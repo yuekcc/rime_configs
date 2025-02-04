@@ -11,8 +11,8 @@ style:
   color_scheme: poetry_ocean                      # 日间主题
   color_scheme_dark: dark_ocean                   # 夜间主题
   # ...字体...
-  font_face: 霞鹜新致宋 屏幕阅读版                      # 全局字体
-  label_font_face: 霞鹜新致宋 屏幕阅读版                # 标签字体
+  font_face: "HarmonyOS Sans SC"                      # 全局字体
+  label_font_face: "HarmonyOS Sans SC"                # 标签字体
   comment_font_face: 黑体字根                      # 注释字体
   font_point: 13                                  # 全局字号
   label_font_point: 13                            # 标签字号
@@ -20,7 +20,7 @@ style:
   # ... 窗口...
   fullscreen: false                               # 是否全屏模式
   horizontal: false                               # 是否横向布局
-  vertical_text: true                             # 是否启用竖排文本
+  vertical_text: false                            # 是否启用竖排文本
   vertical_text_left_to_right: true               # 竖排方向是否从左到右
   vertical_text_with_wrap: false                  # 文本竖排模式下是否自动换行
   vertical_auto_reverse: false                    # 文本竖排模式下，候选窗口位于光标上方时倒序排序
@@ -54,8 +54,8 @@ style:
     shadow_radius: 8                              # 阴影区域半径，为 0 不显示阴影；需要同时在配色方案中指定非透明的阴影颜色
     shadow_offset_x: 2                            # 阴影绘制的偏离距离
     shadow_offset_y: 2                            # 阴影绘制的偏离距离
-    corner_radius: 13                             # 候选窗口圆角半径
-    round_corner: 13                              # 候选背景色块圆角半径，别名 hilited_corner_radius
+    corner_radius: 8                              # 候选窗口圆角半径
+    round_corner: 8                               # 候选背景色块圆角半径，别名 hilited_corner_radius
 
 preset_color_schemes:
   poetry_ocean:                                          

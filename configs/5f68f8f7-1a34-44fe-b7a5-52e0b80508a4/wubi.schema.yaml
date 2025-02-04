@@ -34,7 +34,7 @@ switches:
     reset: 1
     states: [ 形,拼 ]
   - name: GB2312
-    reset: 1
+    reset: 0
     states: [ 扩,常 ]
   - name: new_hide_pinyin
     reset: 1
