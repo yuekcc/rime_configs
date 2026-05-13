@@ -11,6 +11,10 @@ use_preset_vocabulary: false
 “	;l
 ”	;r
 ・	;d
+↑	;au
+↓	;ad
+←	;al
+→	;ar
 →	;a
 「	;la
 」	;rb
@@ -18,5 +22,5 @@ use_preset_vocabulary: false
 〕	;rb
 （	;la
 ）	;lb
-《	;g
-》	;b
+《	;lg
+》	;rb
